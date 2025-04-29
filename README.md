@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**yusufenesdmr/yusufenesdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Merhaba, ben Yusuf Enes Demir! 👋
 
-Here are some ideas to get you started:
+- 💻 Bilgisayar mühendisliği öğrencisiyim.
+- 🚀 Şirketime web sitesi geliştirdim ve STM32 ile donanım projeleri yapıyorum.
+- 📱 Mobil uygulama geliştirmekteyim, Flutter veya React Native kullanarak projeler oluşturuyorum.
+- 🧑‍💻 C ve Java dillerinde yazılım geliştirme bilgim var.
+- 🌍 Türkiye'de yaşıyorum ve yazılım geliştirme konusunda sürekli kendimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Yaptığım Projeler
+
+- 🌐 **Şirket Web Sitesi**: Kurumsal site geliştirdim.
+- 🚗 **STM32 Geliştirme Projeleri**: STM32 ile çeşitli donanım projeleri yapıyorum.
+- 📱 **Mobil Uygulama Projeleri**: Flutter veya React Native ile mobil uygulamalar geliştiriyorum.
+
+## İletişim
+
+- 📧 [E-posta](o1yusuf11@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-enes-demir-871376261/)
+
