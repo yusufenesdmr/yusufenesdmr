@@ -16,9 +16,9 @@
 ## İletişim
 
 - 📧 [E-posta](o1yusuf11@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-enes-demir-871376261/)
+- [<img src="https://img.icons8.com/ios-filled/25/0077B5/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/yusuf-enes-demir-871376261/)
 
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
--![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
--![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
+## 🏆 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufenesdmr&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
