@@ -18,3 +18,7 @@
 - 📧 [E-posta](o1yusuf11@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-enes-demir-871376261/)
 
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
