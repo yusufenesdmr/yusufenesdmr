@@ -1,22 +1,14 @@
 
 
 Merhaba, ben Yusuf Enes Demir! 👋
-💻 Bilgisayar mühendisliği öğrencisiyim.
-
-🚀 Şirketime web sitesi geliştirdim ve STM32 ile donanım projeleri yapıyorum.
-
-📱 Mobil uygulama geliştirmekteyim, Flutter veya React Native kullanarak projeler oluşturuyorum.
-
-🧑‍💻 C ve Java dillerinde yazılım geliştirme bilgim var.
-
-🌍 Türkiye'de yaşıyorum ve yazılım geliştirme konusunda sürekli kendimi geliştiriyorum.
+- Bilgisayar Mühendisliği öğrencisi olarak, gömülü sistemler, mikrodenetleyici programlama ve yazılım geliştirme alanlarında çeşitli projeler üzerinde aktif bir şekilde çalışmaktayım. STM32, Arduino gibi platformlarla programlama yapma ve çeşitli sensörlerle çalışma konusunda deneyim kazandım. Ayrıca Java ve C dillerinde yazılım geliştirme konusunda da bilgi sahibiyim.
 
 Yaptığım Projeler
 🌐 Şirket Web Sitesi: Kurumsal site geliştirdim.
 
 🚗 STM32 Geliştirme Projeleri: STM32 ile çeşitli donanım projeleri yapıyorum.
 
-📱 Mobil Uygulama Projeleri: Flutter veya React Native ile mobil uygulamalar geliştiriyorum.
+📱 Mobil Uygulama Projeleri: React Native ile mobil uygulamalar geliştiriyorum.
 
 🛡️ Hava Savunma Sistemi – Teknofest: Teknofest Hava Savunma Sistemi kategorisinde, hedef tespiti, takip, dost-düşman ayrımı ve imha görevlerini gerçekleştiren bir sistem geliştiriyorum.
 
