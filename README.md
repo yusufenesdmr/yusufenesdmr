@@ -17,7 +17,7 @@ Yaptığım Projeler
 
 ## İletişim
 
-- 📧 [E-posta](o1yusuf11@gmail.com)
+- 📧 GMAİL:(o1yusuf11@gmail.com)
 - [<img src="https://img.icons8.com/ios-filled/25/0077B5/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/yusuf-enes-demir-871376261/)
 
 
